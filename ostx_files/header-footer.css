@@ -73,7 +73,7 @@ h4.skelet {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0,141,210, 0.7) url("./../../img/ico/hover-icon.png") center center no-repeat;
+  background: rgba(0,141,210, 0.7) url("./../img/ico/hover-icon.png") center center no-repeat;
   transition: all .3s linear;
 }
 */
@@ -85,7 +85,7 @@ h4.skelet {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 141, 210, 0.2) url("./../../img/ico/hover-icon-play.png") center center no-repeat;
+    background: rgba(0, 141, 210, 0.2) url("./../img/ico/hover-icon-play.png") center center no-repeat;
     transition: all 0.3s linear;
 }
 .section-article-gallery .img-preview:hover:before {
@@ -96,7 +96,7 @@ h4.skelet {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 141, 210, 0.2) url("./../../img/ico/hover-icon.png") center center no-repeat;
+    background: rgba(0, 141, 210, 0.2) url("./../img/ico/hover-icon.png") center center no-repeat;
     transition: all 0.3s linear;
 }
 
@@ -310,7 +310,7 @@ body > header .nav > li .sub .box-article-sm a:hover {
     background-position: -22px -22px;
 }
 .nav > li > .menu-icons .menu-sprite {
-    background-image: url("./../../img/ico/menu-sprite.png");
+    background-image: url("./../img/ico/menu-sprite.png");
     width: 22px;
     height: 22px;
     clear: both;
@@ -360,7 +360,7 @@ body > header .nav > li.logo-icon a img {
     background-position: -22px -22px;
 }
 .logo-banner .menu-icons-sm .menu-sprite {
-    background-image: url("./../../img/ico/menu-sprite.png");
+    background-image: url("./../img/ico/menu-sprite.png");
     width: 22px;
     height: 22px;
     clear: both;
@@ -395,7 +395,7 @@ body > header .nav > li.logo-icon a img {
     background-position: -22px -22px;
 }
 .logo-banner .login-xs .menu-sprite {
-    background-image: url("./../../img/ico/menu-sprite.png");
+    background-image: url("./../img/ico/menu-sprite.png");
     width: 22px;
     height: 22px;
     clear: both;
@@ -956,7 +956,7 @@ footer .top-footer .col-sm-6 {
 footer .top-footer .top-footer-icon {
     width: 51px;
     height: 41px;
-    background-image: url("./../../img/ico/footer-sprite.png");
+    background-image: url("./../img/ico/footer-sprite.png");
     display: inline-block;
     background-position: 0 0;
 }
@@ -1156,11 +1156,11 @@ footer .bottom-footer img {
     border-top-left-radius: 10px !important;
     -webkit-border-bottom-left-radius: 10px !important;
     border-bottom-left-radius: 10px !important;
-    background: #e9e7e7 url("./../../img/ico/tv-sprite-1.png") center center no-repeat !important;
+    background: #e9e7e7 url("./../img/ico/tv-sprite-1.png") center center no-repeat !important;
     opacity: 1 !important;
 }
 .section-tv .owl-buttons .owl-prev:hover {
-    background: #008dd2 url("./../../img/ico/tv-sprite-2.png") center center no-repeat !important;
+    background: #008dd2 url("./../img/ico/tv-sprite-2.png") center center no-repeat !important;
 }
 .section-tv .owl-buttons .owl-next {
     position: absolute; /*right: -15px;*/
@@ -1176,11 +1176,11 @@ footer .bottom-footer img {
     border-top-right-radius: 10px !important;
     -webkit-border-bottom-right-radius: 10px !important;
     border-bottom-right-radius: 10px !important;
-    background: #e9e7e7 url("./../../img/ico/tv-sprite-3.png") center center no-repeat !important;
+    background: #e9e7e7 url("./../img/ico/tv-sprite-3.png") center center no-repeat !important;
     opacity: 1 !important;
 }
 .section-tv .owl-buttons .owl-next:hover {
-    background: #008dd2 url("./../../img/ico/tv-sprite-4.png") center center no-repeat !important;
+    background: #008dd2 url("./../img/ico/tv-sprite-4.png") center center no-repeat !important;
 }
 
 .section-category-page-top .box-article-sm h2 {

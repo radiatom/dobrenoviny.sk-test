@@ -1,5 +1,7 @@
 # dobrenoviny.sk-test
 
+githubPages: https://radiatom.github.io/dobrenoviny.sk-test/
+
 Посилання на архів лендінга https://fex.net/uk/s/b0rxzky
 Завдання:
 1. Скопіювати хедер і футер з цього сайту https://www.dobrenoviny.sk/ і встановити на на наш лендінг (https://fex.net/uk/s/b0rxzky). Адаптація під моб і десктоп.
